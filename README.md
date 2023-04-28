@@ -64,13 +64,13 @@ The planned steps I will follow for this project include:
 
 # Visualizations
   Seven visualizations that are also in the notebooks.
-    * ![Tree Map of Current Power Generation Fuel Sources](Visualizations/TreeMap.png)
-    * ![Historic Power Production Trends](Visualizations/Historic_Trends.png)
-    * ![Historic Power Production Trends - Stacked](Visualizations/Historic_Stacked_Trends.png)
-    * ![Projected Power Production Trends](Visualizations/Projected_Trends.png.png)
-    * ![Projected Power Production Trends Stacked](Visualizations/Projected_Stacked_Trends.png)
-    * ![Proposed Natural Gas Reduction](Visualizations/Stacked_Eliminate_Nat_Gas.png)    
-    * ![Proposed Renewable Fuel Production Increase](Visualizations/Stacked_Increase_Renewables.png)
+    ![Tree Map of Current Power Generation Fuel Sources](Visualizations/TreeMap.png)
+    ![Historic Power Production Trends](Visualizations/Historic_Trends.png)
+    ![Historic Power Production Trends - Stacked](Visualizations/Historic_Stacked_Trends.png)
+    ![Projected Power Production Trends](Visualizations/Projected_Trends.png.png)
+    ![Projected Power Production Trends Stacked](Visualizations/Projected_Stacked_Trends.png)
+    ![Proposed Natural Gas Reduction](Visualizations/Stacked_Eliminate_Nat_Gas.png)    
+    ![Proposed Renewable Fuel Production Increase](Visualizations/Stacked_Increase_Renewables.png)
 
 # Conclusion
 ## Limitations of Scope / Provided Data
