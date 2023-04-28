@@ -1,4 +1,4 @@
-# Achieving Paris Agreement Goals: Projecting Energy Production Sources in the United States With Time Series Modeling
+# Achieving the Paris Agreement Goals: Projecting Energy Production Sources in the United States With Time Series Modeling
  
 ## Overview
 The United States needs to achieve Paris Agreement greenhouse gas reduction goals in the energy production sector by 2050. The nation must understand current trends in the sector to see if EPA intervention is required to meet the targets. This project projects current energy production trends in the United States and recommends changes to achieve the Paris Agreement reduction goals.
