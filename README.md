@@ -63,7 +63,8 @@ The planned steps I will follow for this project include:
         * Data sourced from the IEA's World Energy Outlook 2022 Report: [Countries by Region](https://iea.blob.core.windows.net/assets/830fe099-5530-48f2-a7c1-11f35d510983/WorldEnergyOutlook2022.pdf#page=499)
 
 # Visualizations
-  Six visualizations that are also in the notebooks.
+  Seven visualizations that are also in the notebooks.
+    * ![Tree Map of Current Power Generation Fuel Sources](Visualizations/TreeMap.png)
     * ![Historic Power Production Trends](Visualizations/Historic_Trends.png)
     * ![Historic Power Production Trends - Stacked](Visualizations/Historic_Stacked_Trends.png)
     * ![Projected Power Production Trends](Visualizations/Projected_Trends.png.png)
