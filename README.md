@@ -65,12 +65,26 @@ The planned steps I will follow for this project include:
 # Visualizations
   Seven visualizations that are also in the notebooks.
     ![Tree Map of Current Power Generation Fuel Sources](Visualizations/TreeMap.png)
+    ![Tree Map of Current Power Generation Fuel Sources - No Legend](Visualizations/TreeMap-nolegend.png)
     ![Historic Power Production Trends](Visualizations/Historic_Trends.png)
+    ![Historic Power Production Trends - No Legend](Visualizations/Historic_Trends-nolegend.png)
+    ![Historic Power Production Trends - Fossil Fuels - No Legend](Visualizations/Historic_Trends-Fossil-nolegend.png)
+    ![Historic Power Production Trends - Nuclear/Hydro - No Legend](Visualizations/Historic_Trends-hydro-nuclear-nolegend.png)
+    ![Historic Power Production Trends - Solar/Wind - No Legend](Visualizations/Historic_Trends-Renew-nolegend.png)
+    ![Historic Power Production Trends - Solar/Wind - Alternate Y-Scale - No Legend](Visualizations/Historic_Trends-Renew-Yscale-nolegend.png)
     ![Historic Power Production Trends - Stacked](Visualizations/Historic_Stacked_Trends.png)
-    ![Projected Power Production Trends](Visualizations/Projected_Trends.png.png)
+    ![Historic Power Production Trends - Stacked- No Legend](Visualizations/Historic_Stacked_Trends-nolegend.png)
+    ![Projected Power Production Trends](Visualizations/Projected_Trends.png)
+    ![Projected Power Production Trends - No Legend](Visualizations/Projected_Trends-nolegend.png)
+    ![Projected Power Production Trends - Fossil Fuels - No Legend](Visualizations/Projected_Trends-Fossil-nolegend.png)
+    ![Projected Power Production Trends - Nuclear/Hydro - No Legend](Visualizations/Projected_Trends-hydro-nuclear-nolegend.png)
+    ![Projected Power Production Trends - Solar/Wind - No Legend](Visualizations/Projected_Trends-Renew-nolegend.png)
     ![Projected Power Production Trends Stacked](Visualizations/Projected_Stacked_Trends.png)
+    ![Projected Power Production Trends Stacked - No Legend](Visualizations/Projected_Stacked_Trends-nolegend.png)
     ![Proposed Natural Gas Reduction](Visualizations/Stacked_Eliminate_Nat_Gas.png)    
+    ![Proposed Natural Gas Reduction - No Legend](Visualizations/Stacked_Eliminate_Nat_Gas-nolegend.png)    
     ![Proposed Renewable Fuel Production Increase](Visualizations/Stacked_Increase_Renewables.png)
+    ![Proposed Renewable Fuel Production Increase - No Legend](Visualizations/Stacked_Increase_Renewables-nolegend.png)
 
 # Conclusion
 ## Limitations of Scope / Provided Data
